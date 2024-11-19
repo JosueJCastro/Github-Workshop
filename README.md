@@ -1,2 +1,4 @@
 # Github-Workshop
-on 11/19, went through a walk through.
+Josue Castro
+11/19/2024
+Fall 2024
